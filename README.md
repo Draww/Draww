@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=draww&label=Profile%20views&color=0e75b6&style=flat" alt="draww" /> </p>
 
-- 💬 Ask me about **Java, Javascript, C#**
+- 💬 Ask me about **Java, Javascript, C#, Dart, Flutter, Go**
 
 - 📫 How to reach me **drawwbeta@gmail.com**
 
